@@ -46,7 +46,7 @@ I'm also interested in backend development.
 <br>
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,linux"/>
 
 </p>
 
